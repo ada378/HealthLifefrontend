@@ -123,9 +123,8 @@ export default function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="flex flex-col sm:flex-row items-center justify-between py-6 gap-3 text-sm text-white/50">
-          <span>© 2026 Health Plus Pharmacy. All rights reserved.</span>
-          <span>Made with ❤️ for Lucknow's Healthcare</span>
+        <div className="flex flex-col sm:flex-row items-center justify-center py-6 gap-3 text-sm text-white/50">
+          <span>© 2026 Health Plus Pharmacy. All rights reserved - Web Tech illusion</span>
         </div>
       </div>
     </footer>
